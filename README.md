@@ -17,7 +17,7 @@
 
 This repository hosts the source code for my personal portfolio. It's live and kicking thanks to the seamless deployment process offered by CSEdge and GitHub Pages.
 
-**View my live portfolio:** [https://Durgesh-Vaigandla.github.io/Portfolio-Website/](https://CharishmaSirigiri.github.io/portfolio/)
+**View my live portfolio:** [https://CharishmaSirigiri.github.io/portfolio/](https://CharishmaSirigiri.github.io/portfolio/)
 
 <p align="center">
   <img src="https://csedge.co/portfolio.png" alt="Portfolio Preview on Desktop and Mobile" width="600">
